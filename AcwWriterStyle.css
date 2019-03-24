@@ -1,0 +1,19 @@
+#Input, #head
+{
+    text-align:         center;
+    font-size:          36px;
+}
+
+.left
+{
+    float:              left;
+    width:              45%;
+    margin-left:        15%;
+}
+
+.right
+{
+    float:              right;
+    width:              15%;
+
+}
